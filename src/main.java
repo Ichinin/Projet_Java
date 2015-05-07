@@ -8,10 +8,7 @@ public class main {
 //		c1.affiche();
 		
 		Course c2 = new Course(3,05,2015,06,30,20,300,"Plage", "Soleil");
-		
-		Natation n1 = new Natation(24,04,2015,8,50,60,900);
-		n1.affiche();
-		
+		 
 		Agenda MyAgenda = new Agenda();
 		MyAgenda.add(c1);
 		MyAgenda.add(v1);
